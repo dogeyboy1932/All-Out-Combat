@@ -1,0 +1,11 @@
+4/11 Meeting Notes:
+
+prototype wave system earlier because it may take more time than we think and it is a core feature of our game.
+
+Think about saving and load. I actually think this is important, like if the user closes the game on wave 10 it should start at wave 10 the next time they load the game.
+Will need to save things like current level, current weapon, current health (if upgradable), current speed (if upgradable). We can do that with a simple
+save.json file that we read when the game loads.
+
+Need to think of a good looking menu screen (not start menu but the menu in between rounds).
+
+We will have to schedule a meeting in about 2 weeks and we should have a demo ready to show.
