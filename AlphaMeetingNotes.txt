@@ -1,0 +1,11 @@
+Add Audio with sound effects or music.
+
+There should be some way that we tell the user how to play. Like a tutorial or text on screen that tells the user what to do.
+
+Make game complex enough where players can play for like 8-10 minutes.
+
+Submit all the documents in the final submission.
+
+Final submission is due May 7th.
+
+Peer evaluation on the 8th.
