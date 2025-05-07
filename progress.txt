@@ -1,8 +1,15 @@
 TODO:
-	- Fix player glitching while shooting
 	- Update either UI or map/character design 
+	- adjust rotation of bullet on fire
+	- fix fire fire rate of gun to make it more difficult
+	- remove weapon upgradable
+	- change start game to start level
+	- add sound effect on bullet fired and/or on bullet hit
+	- (If we have time for this) If player dies during level their then remove the coins they gained from that level, basically reset their coins to before they started this level
+
+DONE:
+	- Fix player glitching while shooting
 	- Spawner should spawn both types of enemies during level 2 and all types of enemies during level 3 (randomly selected which to spawn)
 	- Timer should pause when player dies
-	- Add an enemies remaining UI component and check that all enemies are dead before moving on to next level.
 	- Readjust coins UI so that it is in bottom left of screen
-	- (If we have time for this) If player dies during level their then remove the coins they gained from that level, basically reset their coins to before they started this level
+	- make timer 3 minutes so that gameplay is longer than 8 minuts total
