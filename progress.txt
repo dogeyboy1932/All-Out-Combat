@@ -1,26 +1,8 @@
-super cool stuff I worked on:
-
-Character:
-	- He can stand, walk, run, and jump.
-	- stand, walk, and run are animated but jump is not
-	- move with WASD, run using shift + W, jump with space (obviously)
-	- Jumping is still a bit weird, the players velocity does not really change when in the air.
-	  which is realistic but make for an annoying playing experience.
-UI:
-	- I created most of the health system. There is a health bat and text which does change when you take damage.
-	- You can test the health/damage by pressing M (will remove later)
-	- I created the score UI as well. Can test this by pressing N (will remove later)
-	- There is also a death screen if the players health falls below 0.
-	- I also added a start menu screen (when the game first loads)
-	- And a menu screen (between games where you can buy new weapons and etc.) that is rudimentary/has nothing basically
-
 TODO:
-	- still need UI/system for coins (this will be basically identical to the logic for the score)
-	- Some kind of basic enemy would be great for testing health, score, and coins.
-	- weapons animation/art and logic
-	- better looking/working menu screen
-	- implement jumping and landing animation for character
-
-you guys don't have to work on those right now, this is partially a mental note for me on where I left off
-and partially just an FYI on what I worked on. Obviously, look back the Technical Design Document for other 
-stuff we need to get done.
+	- Fix player glitching while shooting
+	- Update either UI or map/character design 
+	- Spawner should spawn both types of enemies during level 2 and all types of enemies during level 3 (randomly selected which to spawn)
+	- Timer should pause when player dies
+	- Add an enemies remaining UI component and check that all enemies are dead before moving on to next level.
+	- Readjust coins UI so that it is in bottom left of screen
+	- (If we have time for this) If player dies during level their then remove the coins they gained from that level, basically reset their coins to before they started this level
