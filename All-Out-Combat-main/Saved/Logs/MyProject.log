@@ -14199,3 +14199,88 @@ Script Stack (0 frames) :
 [2025.05.07-23.50.43:208][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.07-23.50.43:208][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.07-23.50.43:209][718]AssetCheck: /Game/UI/WP_Menu Validating asset
+[2025.05.07-23.51.55:253][ 44]LogStreaming: Display: FlushAsyncLoading(1766): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.07-23.51.55:286][ 44]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WP_Store.WP_Store
+[2025.05.07-23.51.55:286][ 44]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.05.07-23.51.55:294][ 44]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.05.07-23.52.02:222][519]LogDerivedDataCache: C:/Users/misyu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.07-23.52.06:232][755]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.07-23.52.08:776][843]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.09:439][876]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.09:715][878]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.09:942][879]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.10:185][880]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.10:476][882]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.10:968][888]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.11:482][912]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.11:996][930]LogEditorTransaction: Undo Nudge Widget
+[2025.05.07-23.52.12:370][940]LogEditorTransaction: Undo Remove Widget
+[2025.05.07-23.52.38:012][113]LogAutomationController: Ignoring very large delta of 2.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.07-23.53.02:410][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-23.53.02:448][433]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_Store] ([2] browsable assets)...
+[2025.05.07-23.53.02:452][433]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_Store.WP_Store]
+[2025.05.07-23.53.02:452][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_Store]
+[2025.05.07-23.53.02:453][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_Store" FILE="C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset" SILENT=true
+[2025.05.07-23.53.02:478][433]LogSavePackage: Moving output files for package: /Game/UI/WP_Store
+[2025.05.07-23.53.02:479][433]LogSavePackage: Moving 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Saved/WP_StoreB380E61642642D80088B829E248F6FF8.tmp' to 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset'
+[2025.05.07-23.53.02:488][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.428 ms (total: 3.29 sec)
+[2025.05.07-23.53.02:539][433]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.07-23.53.02:539][433]LogContentValidation: Enabled validators:
+[2025.05.07-23.53.02:539][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.07-23.53.02:539][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.07-23.53.02:539][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.07-23.53.02:539][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.07-23.53.02:539][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.07-23.53.02:539][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.07-23.53.02:540][433]AssetCheck: /Game/UI/WP_Store Validating asset
+[2025.05.07-23.54.12:641][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-23.54.12:676][884]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_Store] ([2] browsable assets)...
+[2025.05.07-23.54.12:678][884]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_Store.WP_Store]
+[2025.05.07-23.54.12:678][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_Store]
+[2025.05.07-23.54.12:678][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_Store" FILE="C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset" SILENT=true
+[2025.05.07-23.54.12:705][884]LogSavePackage: Moving output files for package: /Game/UI/WP_Store
+[2025.05.07-23.54.12:705][884]LogSavePackage: Moving 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Saved/WP_StoreF12E8D7149D24362844430A59325CB8C.tmp' to 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset'
+[2025.05.07-23.54.12:716][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.013 ms (total: 3.36 sec)
+[2025.05.07-23.54.12:767][884]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.07-23.54.12:767][884]LogContentValidation: Enabled validators:
+[2025.05.07-23.54.12:767][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.07-23.54.12:767][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.07-23.54.12:767][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.07-23.54.12:767][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.07-23.54.12:767][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.07-23.54.12:767][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.07-23.54.12:768][884]AssetCheck: /Game/UI/WP_Store Validating asset
+[2025.05.07-23.54.19:205][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-23.54.19:237][403]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_Store] ([2] browsable assets)...
+[2025.05.07-23.54.19:239][403]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_Store.WP_Store]
+[2025.05.07-23.54.19:239][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_Store]
+[2025.05.07-23.54.19:239][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_Store" FILE="C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset" SILENT=true
+[2025.05.07-23.54.19:264][403]LogSavePackage: Moving output files for package: /Game/UI/WP_Store
+[2025.05.07-23.54.19:264][403]LogSavePackage: Moving 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Saved/WP_Store550265A8496CEAAD6B77E7BF20C6BB56.tmp' to 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset'
+[2025.05.07-23.54.19:275][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.344 ms (total: 3.43 sec)
+[2025.05.07-23.54.19:328][403]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.07-23.54.19:328][403]LogContentValidation: Enabled validators:
+[2025.05.07-23.54.19:328][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.07-23.54.19:328][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.07-23.54.19:328][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.07-23.54.19:328][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.07-23.54.19:328][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.07-23.54.19:328][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.07-23.54.19:329][403]AssetCheck: /Game/UI/WP_Store Validating asset
+[2025.05.07-23.54.24:141][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-23.54.24:187][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_Store] ([2] browsable assets)...
+[2025.05.07-23.54.24:189][753]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_Store.WP_Store]
+[2025.05.07-23.54.24:189][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_Store]
+[2025.05.07-23.54.24:189][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_Store" FILE="C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset" SILENT=true
+[2025.05.07-23.54.24:216][753]LogSavePackage: Moving output files for package: /Game/UI/WP_Store
+[2025.05.07-23.54.24:218][753]LogSavePackage: Moving 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Saved/WP_Store17634F7B4B6DA7493E4C2B931F68A122.tmp' to 'C:/Users/misyu/Desktop/Coding/CS-415---Game-Development/Final Project/All-Out-Combat/All-Out-Combat-main/Content/UI/WP_Store.uasset'
+[2025.05.07-23.54.24:227][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.731 ms (total: 3.52 sec)
+[2025.05.07-23.54.24:279][753]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.07-23.54.24:279][753]LogContentValidation: Enabled validators:
+[2025.05.07-23.54.24:279][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.07-23.54.24:279][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.07-23.54.24:279][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.07-23.54.24:279][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.07-23.54.24:279][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.07-23.54.24:279][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.07-23.54.24:280][753]AssetCheck: /Game/UI/WP_Store Validating asset
