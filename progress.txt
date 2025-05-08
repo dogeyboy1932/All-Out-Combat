@@ -1,9 +1,6 @@
 TODO:
 	- Update either UI or map/character design 
-	- adjust rotation of bullet on fire
 	- fix fire rate of gun to make it more difficult
 	- add one or two more sound effects, either on bullet fire, bullet hit, or player took damage
 
 DONE:
-	- change start game to start level
-	- remove weapon upgradable
