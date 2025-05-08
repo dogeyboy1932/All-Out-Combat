@@ -1,7 +1,0 @@
-When player is moving and shooting the player glitches to the left for some reason.
-
-When the player has not upgraded their speed at all, it is extremely difficult to dodge the shooter guy. So I upped the default player speed.
-
-Also the shooting enemy should be animated I think.
-
-The Among us character does not always move around, I think he gets clipped on the map but I am not sure.
